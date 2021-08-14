@@ -2,7 +2,7 @@
 
 - I'm a full-stack developer based in India. Currently pursuing Master's in Mathematics and Computing
 
-- 💬 Ask me about **Flutter, Flask, ReactJS**
+- 💬 Ask me about **Flutter, Flask, MongoDB**
 
 
 <h3 align="left">Connect with me:</h3>

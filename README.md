@@ -2,8 +2,10 @@
 
 - I'm a full-stack developer based in India. Currently pursuing Master's in Mathematics and Computing
 
-- 💬 Ask me about **Flutter, Flask, MongoDB**
-
+- 💬 Ask me about 
+  - **Flutter, React**
+  - **Flask, FastAPI, MongoDB**
+  - **Docker, Kubernetes, Helm, Telemetry, Scripting, Encryption**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

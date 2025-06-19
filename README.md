@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hemabh Ravee</h1>
 
 <p align="center">
-  A passionate Full-Stack Developer & Technical Lead from India<br>
+  A passionate Full-Stack Developer from India<br>
   Building scalable cloud-native applications with robust architecture and modern DevOps.
 </p>
 
@@ -9,8 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Master's in **Mathematics and Computing** from Birla Institute of Technology, Mesra  
-- 🧑‍💻 2+ years of hands-on experience in **full-stack product development**
+- 🧑‍💻 3 years of hands-on experience in **full-stack product development**
 - ⚙️ Built and scaled cloud-native microservices with **Spring Boot**, **NestJS**, and **React**
 - 🛠️ Also experienced in working with **DevOps pipelines**, **Kubernetes**, **Terraform**, and **cloud infrastructure**
 - 💬 Talk to me about:

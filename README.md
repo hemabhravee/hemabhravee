@@ -1,21 +1,55 @@
-<h1 align="center">Hi, I'm Hemabh Ravee</h1>
+<h1 align="center">Hi 👋, I'm Hemabh Ravee</h1>
 
-- I'm a full-stack developer based in India. Currently pursuing Master's in Mathematics and Computing
-
-- 💬 Ask me about 
-  - **Flutter, React**
-  - **Flask, FastAPI, MongoDB**
-  - **Docker, Kubernetes, Helm, Telemetry, Scripting, Encryption**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hemabhravee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hemabhravee/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12134811/hemabh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hemabhravee" height="30" width="40" /></a>
+<p align="center">
+  A passionate Full-Stack Developer & Technical Lead from India<br>
+  Building scalable cloud-native applications with robust architecture and modern DevOps.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemabhravee&show_icons=true&locale=en&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="hemabhravee" /></p>
+### 🚀 About Me
 
+- 🎓 Master's in **Mathematics and Computing** from Birla Institute of Technology, Mesra  
+- ⚙️ Specializing in microservices, cloud infrastructure, and full-stack development
+- 💬 Talk to me about:
+  - **React**, **NestJS**, **Spring Boot**, **Flutter**
+  - **MongoDB**, **PostgreSQL**, **Redis**
+  - **Docker**, **Kubernetes**, **Helm**, **Terraform**, **Istio**
+  - **Auth**, **Encryption**, **Telemetry**, **CI/CD**
 
+---
+### 🛠️ Tech Stack
+
+#### 🧩 Core
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
+
+#### ⚙️ Dev
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+
+#### 🧪 DevOps
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=terraform)
+![Helm](https://img.shields.io/badge/-Helm-05122A?style=flat&logo=helm)
+![Istio](https://img.shields.io/badge/-Istio-05122A?style=flat&logo=istio)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws)
+
+#### 🛢️ Databases & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&logo=elasticsearch)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Auth0](https://img.shields.io/badge/-Auth0-05122A?style=flat&logo=auth0)
+![Stripe](https://img.shields.io/badge/-Stripe-05122A?style=flat&logo=stripe)

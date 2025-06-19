@@ -10,12 +10,14 @@
 ### 🚀 About Me
 
 - 🎓 Master's in **Mathematics and Computing** from Birla Institute of Technology, Mesra  
-- ⚙️ Specializing in microservices, cloud infrastructure, and full-stack development
+- 🧑‍💻 2+ years of hands-on experience in **full-stack product development**
+- ⚙️ Built and scaled cloud-native microservices with **Spring Boot**, **NestJS**, and **React**
+- 🛠️ Also experienced in working with **DevOps pipelines**, **Kubernetes**, **Terraform**, and **cloud infrastructure**
 - 💬 Talk to me about:
-  - **React**, **NestJS**, **Spring Boot**, **Flutter**
-  - **MongoDB**, **PostgreSQL**, **Redis**
-  - **Docker**, **Kubernetes**, **Helm**, **Terraform**, **Istio**
-  - **Auth**, **Encryption**, **Telemetry**, **CI/CD**
+  - **React**, **NestJS**, **Spring Boot**, **Flutter**, **FastAPI**, **Flask**
+  - **MongoDB**, **PostgreSQL**, **Redis**, **Elasticsearch**, **Firebase**
+  - **Docker**, **Kubernetes**, **Helm**, **Istio**, **Terraform**, **AWS**
+  - **Auth0**, **Stripe**, **Encryption**, **Telemetry**, **CI/CD**
 
 ---
 ### 🛠️ Tech Stack
